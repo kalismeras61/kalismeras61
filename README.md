@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Yasin ilhan](https://yasinilhan.com/), a Full Stack Developer 🚀 from Turkey, currently, I'm a Flutter Dev 🙍🏽‍♂️ and I enjoy eating food and traveling.
+Hi, I'm [Yasin ilhan](https://yasinilhan.com/), a Full Stack Developer 🚀 from Turkey, currently, I'm a Flutter Dev since early 2017🙍🏽‍♂️ and I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
