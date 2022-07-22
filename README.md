@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Yasin ilhan](https://yasinilhan.com/), a Full Stack Developer 🚀 from Turkey, currently, I'm a Flutter Dev since early 2017🙍🏽‍♂️ and I enjoy eating food and traveling. My dart rank according git-awards is 16 in worldwide [Check](http://git-awards.com/users?language=dart)
+Hi, I'm [Yasin ilhan](https://yasinilhan.com/), a Full Stack Developer 🚀 from Turkey, currently, I'm a Flutter Dev since early 2017🙍🏽‍♂️ and I enjoy eating food and traveling. My dart rank according git-awards is 16 in worldwide [Check](http://159.100.250.9/users?language=dart)
 
   
 **Talking about Personal Stuffs:**
