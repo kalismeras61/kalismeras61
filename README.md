@@ -13,7 +13,7 @@ Hi, I'm [Yasin ilhan](https://yasinilhan.com/), a Full Stack Developer 🚀 from
 - 👨🏽‍💻 Currently working on AI base Flutter Mobile application as having expertise on Dart + Bloc Architecture. :wink:;
 - 🌱 I’m currently learning Swift; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@yasinilhan](https://twitter.com/yasiniilhan);
+- 📫 How to reach me: [@yasinilhan](https://twitter.com/yasinilhan);
 
 
 
